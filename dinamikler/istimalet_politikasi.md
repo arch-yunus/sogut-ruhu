@@ -6,7 +6,14 @@ Osmanlı Devleti'nin sadece askeri güçle kurulup büyümediğinin, asıl başa
 
 ## ⚙️ İstimalet Politikasının Temel Unsurları
 
-Osmanlılar, Bizans ve Balkan prensliklerinden fethettikleri topraklarda halka doğrudan baskı uygulamak yerine, şu üç temel sütun üzerinden bir güvence sunmuştur:
+Osmanlılar, Bizans ve Balkan prensliklerinden fethettikleri topraklarda halka doğrudan baskı uygulamak yerine, devletin adil bir sığınak olduğunu göstermeyi hedeflemiştir. Bu felsefenin en somut ve fiziki sembolü, Osmanlı devlet idaresinin kalbi olan Topkapı Sarayı'nın ana giriş kapısı **Bâb-ı Hümâyûn**'un üzerine asılan şu celî sülüs levhada yazılıdır:
+
+> **"Yâ Vâliyete Külli Mazlûm" (يا والي كل مظلوم)**
+> *“Ey bütün mazlumların sığınağı ve koruyucusu (olan Allah'ım/Devletim)!”*
+
+Bu kitabe, sarayın kapısına gelen, zulüm görmüş her dinden ve ırktan insanın devletin güvencesi ve adaleti altında olduğunu taşa kazıyarak ilan eden kurucu bir devlet manifestosudur.
+
+Osmanlı, bu ilkeyi hayata geçirmek için şu üç temel sütun üzerinden güvenceler sunmuştur:
 
 ### 1. Dini ve Kültürel Hürriyet (Zimmî Hukuku)
 * Fethedilen bölgelerdeki kilise ve manastırların mülkiyetine dokunulmamış, ayin ve ibadetlerin serbestçe yapılmasına izin verilmiştir.

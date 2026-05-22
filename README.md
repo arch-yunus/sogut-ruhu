@@ -99,7 +99,13 @@ Osmanlı devlet aklını ve dünya hakimiyetini kalıcı kılan iki temel düstu
 ### 1. İstimalet Politikası
 İstimalet, fethedilen topraklardaki gayrimüslim halkın can, mal, namus ve inanç özgürlüğünü devlet güvencesi altına alarak onları sisteme ısındırma politikasıdır. Bu politika sayesinde Osmanlı, fethettiği bölgelere kılıç zoruyla değil, rıza üreterek yerleşmiştir.
 
-Bunun en somut nişanesi, Fatih Sultan Mehmed'in Bosna Katoliklerine verdiği ahidnamedir:
+Bu yönetim anlayışının ve adalet felsefesinin en somut fiziki sembolü, devletin idare merkezi olan Topkapı Sarayı'nın ana giriş kapısı olan **Bâb-ı Hümâyûn** üzerinde asılı levhada yazılıdır:
+> **"Yâ Vâliyete Külli Mazlûm" (يا والي كل مظلوم)**
+> *“Ey bütün mazlumların sığınağı / koruyucusu (olan Allah'ım/Devletim)!”*
+
+Bu kitabe, devletin kapısına gelen, zulüm görmüş her din ve milletten insan için adil bir sığınak olma iddiasının taşa kazınmış manifestosudur.
+
+İstimaletin bir diğer en somut nişanesi ise Fatih Sultan Mehmed'in Bosna Katoliklerine verdiği ahidnamedir:
 > *"Ben ki Sultan Mehmed Han'ım... Bosna ruhbanlarına bildirim ki, adı geçenlere ve kiliselerine hiç kimse engel olmayacak ve onları rahatsız etmeyecektir. Ülkemde korkusuzca yaşasınlar..."*
 > **— [Fatih Sultan Mehmed'in Bosna Ahidnamesi](file:///g:/Diğer bilgisayarlar/Dizüstü Bilgisayarım/github repolarım/sogut-ruhu/belgeler/fatih_ahidnamesi.md)**
 
