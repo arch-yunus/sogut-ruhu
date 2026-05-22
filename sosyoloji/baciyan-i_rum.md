@@ -4,10 +4,24 @@ Osmanlı Devleti'nin kuruluş dönemindeki toplumsal yapıyı incelerken karşı
 
 ---
 
-## 🏛️ Kuruluşu ve Lideri: Fatma Bacı (Kadın Ana)
+## 🏛️ Aşıkpaşazade Sınıflaması ve Hacı Bektaş Bağı
 
-Bâcıyân-ı Rûm teşkilatının kurucusu ve lideri, Ahilik teşkilatının kurucusu Ahi Evran'ın eşi **Fatma Bacı**'dır (tarihi kaynaklarda *Kadın Ana* veya *Hacı Bektaş-ı Veli velâyetnâmesinde* geçen adıyla *Fatma Hatun*). 
-Fatma Bacı, dönemin büyük sufilerinden Şeyh Evhadüddin Kirmani'nin kızı olup, yüksek bir eğitim görmüş ve tasavvufi/sosyal bir nüfuz elde etmiştir. Hacı Bektaş-ı Veli ile de yakın bir dostluk ve manevi bağ kurmuştur.
+Aşıkpaşazade, 14. yüzyıl Anadolu'sunda toplumsal ve askeri hayatı şekillendiren dört büyük sosyal zümreyi şu şekilde tanımlar:
+
+1. **Gaziyân-ı Rûm (Anadolu Gazileri):** Sınır boylarında akın yapan savaşçılar.
+2. **Ahiyân-ı Rûm (Anadolu Ahileri):** Ticaret ve esnaf ahlakını düzenleyen meslek erbapları.
+3. **Abdalân-ı Rûm (Anadolu Abdalları/Dervişleri):** Halkı irşad eden, manevi motivasyon sağlayan dervişler.
+4. **Bâcıyân-ı Rûm (Anadolu Bacıları/Kadınları):** Üretim, eğitim ve savunmada yer alan kadın birliği.
+
+Tarihçi Aşıkpaşazade, Anadolu'nun manevi mimarı **Hacı Bektaş-ı Veli**'nin, Kırşehir dolaylarına geldiğinde kendi tasavvufi sırrını ve manevi emanetini erkek dervişler yerine Bâcıyân-ı Rûm lideri **Fatma Bacı**'ya (Hatun Ana) teslim ettiğini yazar. Bu anlatı, erken dönem Osmanlı-Türk toplumunda kadınların manevi ve dini hiyerarşide ne denli yüksek ve saygın bir konuma sahip olduklarının en önemli delilidir.
+
+---
+
+## 🌾 Yörük Kadınının Toplumsal ve Ekonomik Konumu
+
+Bâcıyân-ı Rûm teşkilatının sosyolojik temeli, göçebe ve yarı-göçebe **Türkmen/Yörük** kültürüyle yakından ilişkilidir. Orta Doğu'nun veya Bizans'ın katı yerleşik kent kültürlerinde kadınlar sosyal hayattan büyük ölçüde izole edilmişken, Yörük kadınları toplumsal hayatın tam merkezindeydi:
+* **Çok Yönlü Yaşam:** Yörük kadını ata biner, ok atar, hayvancılık faaliyetlerini bizzat yönetir ve göç yollarında obanın güvenliğinde aktif rol oynardı.
+* **Ekonomik Bağımsızlık ve "Bacı Pazarı":** Kadınlar ürettikleri dokumaları, halıları, süt ve deri ürünlerini doğrudan satabilecekleri **"Bacı Pazarları"** kurmuşlardır. Erkeklerin araya girmesine gerek kalmadan ticaret yapabilen bu kadınlar, iktisadi bağımsızlıklarını kazanmış ve beyliğin yerel sermaye birikimine katkı sağlamışlardır.
 
 ---
 
@@ -28,16 +42,18 @@ Bâcıyân-ı Rûm üyeleri sadece ev ve atölyelerde kalmamış, vatan savunmas
 
 ---
 
-## 💡 Toplumsal Hizmetler ve Dayanışma
+## 💡 Toplumsal Hizmetler ve Gönül Birliği Prensibi
 
-Teşkilatın bir diğer önemli görevi de kimsesiz, yetim ve yaşlı kadınlara destek olmaktı:
-* **Zaviyeler ve Konukevleri:** Yolda kalmış kadın yolcular, kimsesizler ve göçmen aileler için bakım evleri kurmuşlardır.
-* **Gönül Birliği prensibi:** Teşkilatın temel düsturu *"Aşına, eşine, işine sahip ol"* şeklinde özetlenmiştir. Bu ilke; kadının evini (eşini) çekip çevirmesini, üretimde aktif olmasını (işini) ve toplumsal ahlakını (aşını/iffetini) korumasını sembolize ediyordu.
+Teşkilatın temel düsturu olan **"Aşına, eşine, işine sahip ol"** ifadesi, kadının hayatın her alanındaki sorumluluğunu dengelerdi:
+* *Aşına sahip ol:* Evinde helal lokma pişir, israftan kaçın, cömert ol ve toplumsal ahlakı/iffetini koru.
+* *Eşine sahip ol:* Ailene ve eşine bağlı kal, evini/obanı çekip çevir, nesillerin yetişmesinde başrolü üstlen.
+* *İşine sahip ol:* Boş durma, üretken ol, bir zanaat öğren ve ekonomik hayata katkı sağla.
 
 ---
 
 ## 📚 Kaynakça
 
-* Aşıkpaşazade, *Tevârih-i Âl-i Osman (Osmanlı Tarihi)*.
+* Aşıkpaşazade, *Tevârih-i Âl-i Osman (Osmanlı Tarihi)*, Haz: Atsız, Ötüken Neşriyat.
 * Hacı Bektaş-ı Veli, *Velâyetnâme*.
 * Mikail Bayram, *Fâtımâ Bâcı ve Bâcıyân-ı Rûm (Anadolu Kadınlar Teşkilâtı)*, Konya.
+* İlhan Şahin, *Osmanlı Döneminde Konar-Göçerler (Yörükler)*, Eren Yayıncılık.

@@ -4,44 +4,57 @@ Osmanlı Beyliği'nin kuruluşunda ve hızla kurumsallaşmasında, manevi ve ikt
 
 ---
 
+## 📜 Fütüvvet Ahlakı: 3 Açık, 3 Kapalı Kapı Prensibi
+
+Ahiliğin temel felsefesi, İslam tasavvufundaki **Fütüvvet** (yiğitlik, cömertlik) ahlakına dayanır. Bu ahlak, esnafın kişisel ve mesleki yaşamını düzenleyen sert kurallarla çerçevelenmiştir. Teşkilatın en meşhur ahlaki düsturu **"Üç Açık, Üç Kapalı"** kuralıdır:
+
+### Evrensel Ahlak Kuralları
+* **Eli Açık Olmak (Cömertlik):** Yoksullara, muhtaçlara ve yolculara bizzat yardım etmek, cimrilikten kaçınmak.
+* **Kapısı Açık Olmak (Misafirperverlik):** Evine veya zaviyesine gelen hiçbir yabancıyı geri çevirmemek, ona canla başla hizmet etmek.
+* **Sofrası Açık Olmak (İkram):** Ekmeğini ve yemeğini başkalarıyla paylaşmak, aç olanı doyurmak.
+
+### Nefis Terbiyesi Kuralları
+* **Gözü Kapalı Olmak:** Başkalarının ayıplarına, harama ve mahreme bakmamak; edep sahibi olmak.
+* **Dili Kapalı Olmak:** Yalan söylememek, gıybet yapmamak, iftira atmamak ve kimseyi kıracak söz sarf etmemek.
+* **Beli Kapalı Olmak:** İffetini ve namusunu korumak, şehvete yenik düşmemek.
+
+Ahiler, bu fütüvvet ilkelerini **Fütüvvetnameler** adı verilen ahlak el kitapları üzerinden okur ve ezberlerlerdi. Ahi Evran'ın öğretisine göre bir Ahi'nin uyması gereken toplam **740 ahlaki kural** bulunurdu.
+
+---
+
 ## 🏛️ Şeyh Edebali ve Osman Gazi İttifakı: Devletin Manevi Doğuşu
 
 Ahilik, kuruluş dönemi Osmanlı siyasetiyle organik bir bağ kurmuştur. Bu bağın en somut örneği, dönemin nüfuzlu Ahi şeyhlerinden olan **Şeyh Edebali** ile beyliğin kurucusu **Osman Gazi** arasındaki ilişkidir.
 
-* **Siyasi-Manevi İttifak:** Osman Gazi, Şeyh Edebali'nin zaviyesinde konaklamış, burada meşhur rüyasını görmüş (rüyasında Edebali'nin göğsünden çıkan bir çınarın tüm dünyayı kapladığını görmüştür) ve Şeyh Edebali bu rüyayı Osmanlı cihan imparatorluğunun müjdesi olarak yorumlamıştır.
-* **Akrabalık Bağı:** Osman Gazi, Şeyh Edebali'nin kızı **Bala Hatun** (Rabia Bala Hatun) ile evlenerek Ahi teşkilatının tam desteğini arkasına almıştır.
+* **Siyasi-Manevi İttifak:** Osman Gazi, Şeyh Edebali'nin Bilecik'teki zaviyesinde konaklamış, burada meşhur rüyasını görmüş (rüyasında Edebali'nin göğsünden çıkan bir dolunayın kendi göğsüne girdiğini ve göbeğinden çıkan devasa bir çınarın tüm dünyayı kapladığını görmüştür). Şeyh Edebali bu rüyayı Osmanlı cihan devletinin müjdesi olarak yorumlamıştır.
+* **Akrabalık Bağı:** Osman Gazi, Şeyh Edebali'nin kızı **Bala Hatun** ile evlenerek Ahi teşkilatının tam desteğini arkasına almıştır. Bu evlilik, genç beyliğe askeri gücün yanında dini ve sosyal bir meşruiyet kazandırmıştır.
 * **Bürokratik Katkı:** İlk Osmanlı kadısı ve müftüsü olan **Dursun Fakıh**, Şeyh Edebali'nin damadı ve öğrencisidir. Ahiler, yeni kurulan devlete kadı, katip ve yönetici yetiştirerek idari yapının kurulmasını sağlamışlardır.
 
 ---
 
-## 💼 Ahiliğin İktisadi ve Mesleki Yapısı
+## 🏡 Zaviye Teşkilat Yapısı ve Hiyerarşi
 
-Ahilik, sadece dini bir cemaat değil, katı kuralları olan ve piyasayı düzenleyen bir **meslek örgütüdür (Lonca)**. Temel ekonomik işlevleri şunlardır:
+Ahi Zaviyesi, hem bir meslek okulu hem bir ibadethane hem de misafirhane olarak işlev gören çok amaçlı bir sosyal merkezdi. Zaviye içinde katı bir hiyerarşik yapı bulunurdu:
 
-### 1. Mesleki Eğitim ve Liyakat (Şed Kuşanma)
-* Ahilikte mesleki eğitim yamaklık, çıraklık, kalfalık ve ustalık aşamalarından oluşurdu.
-* Eğitimi başarıyla tamamlayan kalfa için törenle **Şed (Kuşak) Kuşanma** merasimi düzenlenir ve kendisine dükkan açma ruhsatı (Gedik) verilirdi.
-
-### 2. Kalite Kontrol ve Tüketici Hakları (Narh Sistemi)
-* Üretilen malların kalitesi sıkı bir şekilde denetlenirdi. Hatalı ve kalitesiz mal üreten esnafın dükkanı kapatılır, pabucu dama atılırdı ("Pabucu dama atılmak" deyimi buradan gelir).
-* Devletle işbirliği içinde malların tavan fiyatı belirlenirdi (**Narh**). Böylece fahiş fiyat artışı ve haksız rekabet önlenirdi.
-
-### 3. Orta Sandığı (Sosyal Dayanışma)
-* Esnafın kazancından toplanan paralarla ortak bir fon (**Orta Sandığı**) oluşturulurdu.
-* İş yeri zarar gören, hastalanan veya yeni dükkan açacak olan Ahi üyelerine bu sandıktan faizsiz kredi veya hibe desteği sağlanarak sosyal güvenlik tesis edilirdi.
+1. **Ahi (Şeyh):** Zaviyenin ve o bölgedeki esnaf birliğinin en üst yöneticisi. Kararları o verir, cezaları o keserdi.
+2. **Nakib:** Ahi'nin en yakın yardımcısı. Törenleri yönetir, üyelerin disiplin durumlarını Ahi'ye rapor ederdi.
+3. **Yiğitbaşı:** Zaviyenin güvenliğinden, düzeninden ve üyelerin ahlaki takibinden sorumlu olan yetkilidir. Aynı zamanda dükkanlardaki hammadde dağıtımını denetlerdi.
+4. **Esnaf (Usta, Kalfa, Çırak, Yamak):** Mesleki hiyerarşide yer alan üyeler. Yamaklıktan ustalığa geçiş, **Şed Kuşanma** merasimiyle tescillenirdi. Merasimde adaya Ahi tarafından nasihat edilir ve beline fütüvvet kuşağı bağlanırdı.
 
 ---
 
-## ⚔️ Ahiliğin Askeri ve Toplumsal Savunma Rolü
+## 💼 Ahiliğin İktisadi ve Mesleki Kuralları
 
-Uç bölgelerindeki güvensiz ortamda Ahiler, sadece çarşıda ticaret yapmakla kalmamış; şehirlerin surlarını korumuş ve fetihlerde etkin rol oynamışlardır:
-* **Gönüllü Askerler:** Düzenli ordunun kurulmadığı erken dönemde, Ahi gençleri (Fityan) akıncı gruplarla birlikte gazaya katılmışlardır.
-* **Şehir Savunması:** Sultanların sefere gittiği dönemlerde şehirlerin ve kasabaların güvenliğini Ahiler sağlamıştır.
+Ahilik, piyasayı düzenleyen ve haksız rekabeti engelleyen bir **lonca** düzenidir:
+* **Narh Sistemi:** Devletle işbirliği içinde malların tavan fiyatı belirlenirdi. Fahiş fiyat artışı ve haksız rekabet önlenirdi.
+* **Kalite Kontrol:** Üretilen malların kalitesi sıkı bir şekilde denetlenirdi. Hatalı ve kalitesiz mal üreten esnafın dükkanı kapatılır, pabucu dama atılırdı.
+* **Orta Sandığı:** Esnafın kazancından toplanan paralarla ortak bir fon oluşturulurdu. İş yeri zarar gören, hastalanan veya yeni dükkan açacak olan Ahi üyelerine bu sandıktan faizsiz kredi veya hibe desteği sağlanırdı.
 
 ---
 
 ## 📚 Kaynakça
 
 * Ahi Evran, *Fütüvvetname* metinleri.
-* Mikail Bayram, *Ahi Evran ve Ahi Teşkilâtının Kuruluşu*, Damla Yayınları.
+* Mikail Bayram, *Ahi Evran ve Ahi Teşkilâtının Kuruluşu*, Damla Yayınları, İstanbul.
 * Halil İnalcık, *Osmanlı İmparatorluğu Klasik Çağ (1300-1600)*, Kronik Kitap.
+* Yusuf Ekinci, *Ahilik*, Ahilik Araştırma ve Kültür Vakfı Yayınları.
