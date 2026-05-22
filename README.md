@@ -1,4 +1,5 @@
-﻿
+![Söğüt Ruhu Banner](assets/banner.png)
+
 # 🌳 sogut-ruhu
 
 > *"İnsanı yaşat ki devlet yaşasın."* 
