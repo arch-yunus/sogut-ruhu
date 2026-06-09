@@ -1,3 +1,5 @@
+![Sosyoloji Banner](../assets/banner_sosyoloji.png)
+
 # 🌿 Abdalân-ı Rûm (Anadolu Dervişleri ve Horasan Erenleri)
 
 Osmanlı Devleti’nin kuruluşunda ve Anadolu’nun Türkleşip İslamlaşmasında en az askerler kadar kilit rol oynayan bir diğer kurucu zümre **Abdalân-ı Rûm** (Anadolu Abdalları/Dervişleri) teşkilatıdır. Aşıkpaşazade’nin zikrettiği "Dört Sütun"dan biri olan bu zümre, Moğol istilası önünden kaçarak Orta Asya ve Horasan'dan Anadolu uçlarına sığınan mutasavvıflardan, dervişlerden ve "gönül erlerinden" oluşuyordu.

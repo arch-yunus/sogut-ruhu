@@ -1,3 +1,5 @@
+![Tarihyazımı Banner](../assets/banner_tarihyazimi.png)
+
 # 📚 Osmanlı'nın Kuruluşu: Tarihyazımı ve Akademik Tezler
 
 "Osmanlı gibi cihangir bir imparatorluk, sıradan bir çoban aşiretinden nasıl doğdu?" sorusu, 20. yüzyılın başından itibaren dünya tarihçileri arasında en çok tartışılan "Kuruluş Sorunu" (The Foundation Problem) olmuştur.
