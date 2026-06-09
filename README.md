@@ -38,6 +38,12 @@ Bu teze karşı **M. Fuad Köprülü** ve **Halil İnalcık**, Osmanlı'nın ark
 ### 2. Yörük Yaşam Tarzından Yerleşik Organizasyona Geçiş
 İlk dönemlerde beyliğin ekonomik temeli küçükbaş hayvancılık, deri, et ve dokumaya dayanıyordu. Aşiret, yazın Domaniç yaylalarında hayvanlarını otlatıyor, kışın ise daha ılık olan Söğüt vadisine iniyordu. Bu yarı-göçebe yaşam tarzı, her an savaşa hazır, coğrafyayı çok iyi tanıyan ve lojistik hareket kabiliyeti yüksek bir askeri yapıyı beraberinde getiriyordu.
 
+### 3. İlber Ortaylı ve "Osmanlı'nın Sürekliliği ile Gaza Ruhu" Vurgusu
+Modern tarihçilerimizden **Prof. Dr. İlber Ortaylı**, Osmanlı'nın kuruluşunu salt bir askeri başarıdan ziyade, Oğuz/Türkmen geleneği ile Gaza ruhunun olağanüstü bir sentezi olarak yorumlar. Ortaylı'ya göre, erken dönem tarihçilerinden (örn. Âşıkpaşazade) intikal eden menkıbeler dahi, o devrin zihniyetini ve ruhunu yansıtması bakımından kritik öneme sahiptir. Ayrıca Ortaylı, Osmanlı'yı devasa ve sürdürülebilir bir imparatorluğa dönüştüren ana unsurun sadece fetih değil, kurulan **kalıcı devlet teşkilatı** olduğunu vurgular:
+
+> *"Osmanlı'nın kuruluşu tesadüfi bir başarı değil; gaza ruhunun, Türkmenlerin teşkilatçı yapısıyla ve Bizans sınırındaki esnek siyasetle birleşmesinin doğal bir sonucudur. Osmanlı çökmemiş, kendi eliyle modernleşerek Türkiye Cumhuriyeti'ne dönüşmüştür."*
+> **— İlber Ortaylı**
+
 ---
 
 ## 🏛️ III. Birincil Tarihsel Kaynakların Şahitliği
