@@ -93,7 +93,7 @@ Kuruluş döneminin toplumsal dinamiklerini analiz eden Aşıkpaşazade, Anadolu
 
 1. **[Gaziyân-ı Rûm (Anadolu Gazileri)](file:///g:/Diğer bilgisayarlar/Dizüstü Bilgisayarım/github repolarım/sogut-ruhu/dinamikler/gaza_ve_cihat.md)**: Sınır boylarında gaza idealiyle savaşan alperenler ve akıncılardır. Askeri gücün ve fetih hareketlerinin çekirdeğini oluştururlar.
 2. **[Ahiyân-ı Rûm (Anadolu Ahileri)](file:///g:/Diğer bilgisayarlar/Dizüstü Bilgisayarım/github repolarım/sogut-ruhu/sosyoloji/ahilik_teskilati.md)**: Esnaf ve zanaatkârların oluşturduğu, fütüvvet ahlakını temel alan iktisadi ve sosyal güçtür. Şeyh Edebali'nin şahsında beylikle bütünleşmiş, fethedilen yerlerde ekonomik ve sosyal düzeni kurmuşlardır.
-3. **Abdalan-ı Rûm (Anadolu Dervişleri)**: Geyikli Baba, Kumral Abdal, Postinpuş Baba gibi sufîlerdir. Ordulardan önce fethe çıkıp gönülleri kazanmış, Hristiyan ve Müslüman halk arasında manevi köprüler kurmuşlardır.
+3. **[Abdalan-ı Rûm (Anadolu Dervişleri)](file:///g:/Diğer bilgisayarlar/Dizüstü Bilgisayarım/github repolarım/sogut-ruhu/sosyoloji/abdalan-i_rum.md)**: Geyikli Baba, Kumral Abdal, Postinpuş Baba gibi sufîlerdir. Ordulardan önce fethe çıkıp gönülleri kazanmış, Hristiyan ve Müslüman halk arasında manevi köprüler kurmuşlardır.
 4. **[Bâcıyân-ı Rûm (Anadolu Kadınlar Birliği)](file:///g:/Diğer bilgisayarlar/Dizüstü Bilgisayarım/github repolarım/sogut-ruhu/sosyoloji/baciyan-i_rum.md)**: Dünyanın ilk kadın teşkilatlarından biridir. Hem ekonomik üretime (dokuma, tarım) katılmışlar hem de yurt savunmasında bizzat silah kuşanarak alplere omuz vermişlerdir.
 
 ---
@@ -137,15 +137,19 @@ Aşağıdaki bağlantıları kullanarak projemizdeki tarihi araştırma ve vesik
 sogut-ruhu/
 ├── belgeler/                # Tarihi vesikalar, antlaşmalar ve berat örnekleri
 │   ├── fatih_ahidnamesi.md  # Fatih'in Bosna Katoliklerine verdiği din özgürlüğü fermanı ve analizi
+│   ├── seyh_edebali_vasiyeti.md # Osman Gazi'ye "İnsanı yaşat ki devlet yaşasın" vasiyeti
 │   └── seyahatnameler/      # Dönemin seyyahlarının gözlemleri ve seyahat rotaları
 │       └── ibn_battuta.md   # İbn Battuta'nın Orhan Gazi ve Akhi teşkilatı hakkındaki notları
 ├── dinamikler/              # Temel devlet ve askeri politikaların analizleri
-│   ├── gaza_ve_cihat.md     # Gaza ideolojisi ve akademik tezler (Wittek, Lindner, Lowry, Kafadar)
+│   ├── gaza_ve_cihat.md     # Gaza ideolojisi (Gaza Tezi detayları)
 │   ├── istimalet_politikasi.md # Hoşgörü ve gönül alma (istimalet) siyaseti detayları
 │   └── tahrir_ve_timar.md   # Toprak yönetimi (Çift-Hane) ve eyalet askeri yapısı
 ├── sosyoloji/               # Kurucu zümreler ve toplumsal yapı
 │   ├── ahilik_teskilati.md  # Ahiyân-ı Rûm, fütüvvet ahlakı ve esnaf hiyerarşisi
+│   ├── abdalan-i_rum.md     # Abdalân-ı Rûm, Horasan dervişleri ve Geyikli Baba
 │   └── baciyan-i_rum.md     # Bâcıyân-ı Rûm (Kadınlar Birliği) ve iktisadi roller
+├── tarihyazimi/             # Akademi, tarih tezleri ve tartışmalar
+│   └── kurulus_tezleri.md   # Paul Wittek, Lindner, İnalcık ve Colin Imber tezleri
 └── kronoloji/               # Söğüt'ten İstanbul'un fethine dönüm noktaları
     └── 1299_1453_kronolojisi.md # 1299-1453 arası kritik askeri ve idari olaylar
 ```
